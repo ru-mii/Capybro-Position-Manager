@@ -1,0 +1,2 @@
+# CapybroPositionManager
+Save/load position.
