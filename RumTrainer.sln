@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RumTrainer", "RumTrainer\RumTrainer.csproj", "{62DD1459-3937-47E7-8DBB-690035E6EF7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62DD1459-3937-47E7-8DBB-690035E6EF7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DD1459-3937-47E7-8DBB-690035E6EF7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DD1459-3937-47E7-8DBB-690035E6EF7D}.Debug|x64.ActiveCfg = Debug|x64
+		{62DD1459-3937-47E7-8DBB-690035E6EF7D}.Debug|x64.Build.0 = Debug|x64
+		{62DD1459-3937-47E7-8DBB-690035E6EF7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DD1459-3937-47E7-8DBB-690035E6EF7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62DD1459-3937-47E7-8DBB-690035E6EF7D}.Release|x64.ActiveCfg = Release|x64
+		{62DD1459-3937-47E7-8DBB-690035E6EF7D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8577B25-FC69-4E0B-B51B-82AECFA99C04}
+	EndGlobalSection
+EndGlobal
