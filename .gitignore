@@ -1,0 +1,8 @@
+
+.vs/RumTrainer/v16/.suo
+RumTrainer/bin/x64/Release/RumTrainer.exe
+RumTrainer/bin/x64/Release/RumTrainer.exe.config
+RumTrainer/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+*.cache
+RumTrainer/obj/x64/Release/RumTrainer.csproj.FileListAbsolute.txt
+RumTrainer/obj/x64/Release/RumTrainer.exe
